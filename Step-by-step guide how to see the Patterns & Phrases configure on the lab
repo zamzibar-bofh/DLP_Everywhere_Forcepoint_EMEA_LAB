@@ -1,0 +1,68 @@
+# Step-by-step guide how to see the Patterns & Phrases configure on the lab
+#### [Made by Jose Bavaresco with Scribe](https://scribehow.com/shared/Step-by-step_guide_how_to_see_the_Patterns__Phrases_configure_on_the_lab__VM8M6mUyRxiRcvECCNuouQ)
+
+
+1\. Navigate to https://YOURFSMIPSERVER:9443/manager/pages/eipProductContainer.jsf?pageId=eipProductContainerPage
+
+
+2\. Click "Policy Management"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/50371d76-9361-4a59-b950-a26aa91ed05f/ascreenshot.jpeg?tl_px=0,72&br_px=1290,793&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=35,277)
+
+
+3\. Click "Patterns & Phrases"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/57f1c934-bd0b-48d0-aaa3-a8f1a190c510/ascreenshot.jpeg?tl_px=0,156&br_px=1290,877&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=323,277)
+
+
+4\. Down arrow to filter
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/2414370f-cc11-49f5-befa-e9ea1cf0547f/user_cropped_screenshot.jpeg?tl_px=719,0&br_px=2009,721&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,252)
+
+
+5\. Click "Filter by this Column..."
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/bdebcbc2-2237-4c73-abba-7b7a3f2ede2a/user_cropped_screenshot.jpeg?tl_px=590,96&br_px=1880,817&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+6\. Click "OK"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/85956ce7-4fbb-4347-8a7a-60c0f533a414/user_cropped_screenshot.jpeg?tl_px=1077,527&br_px=2367,1248&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
+
+
+7\. Click "KeywordChannelLab"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/dbfb618f-f532-48da-a03c-279f7efb43be/user_cropped_screenshot.jpeg?width=1120.0&height=830&force_format=png)
+
+
+8\. Click this text field.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/6dbb467e-2b2a-4c21-86ec-d811fcc8243f/user_cropped_screenshot.jpeg?width=1120.0&height=864&force_format=png)
+
+
+9\. Click "Cancel" for not change
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/e35a3d94-1233-49ef-a69d-a408d4350430/user_cropped_screenshot.jpeg?width=1120.0&height=416&force_format=png&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=986,516)
+
+
+10\. Click "Channel_CASB_Phrase"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/28d337e9-2bb2-4393-9d48-116c144fa5d0/user_cropped_screenshot.jpeg?tl_px=47,0&br_px=2341,926&force_format=png&width=1120.0)
+
+
+11\. Double-click this text field.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/8a4b8ec8-3cd5-4422-ab03-f40efaaaa2eb/user_cropped_screenshot.jpeg?width=1120.0&height=637&force_format=png)
+
+
+12\. Click "BlockFrase"
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/5b91d1f1-2671-4ee5-b317-8d0849dcf9ef/user_cropped_screenshot.jpeg?tl_px=111,0&br_px=2404,1061&force_format=png&width=1120.0)
+
+
+13\. Double-click this text field.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-17/9294e7fa-c26b-4025-88c9-c15f36f4595a/user_cropped_screenshot.jpeg?width=1120.0&height=688&force_format=png)
+#### [Made with Scribe](https://scribehow.com/shared/Step-by-step_guide_how_to_see_the_Patterns__Phrases_configure_on_the_lab__VM8M6mUyRxiRcvECCNuouQ)
+
+
